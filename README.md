@@ -4,7 +4,7 @@ _This project shows the main aspects to build a web page from 0_
 
 ## python if else 🚀
 
-_TThis was about using conditionals for this **conditions**._
+_This was about using conditionals for this **conditions**._
 ```
 if number is odd print Weird
 if number is even and in the inclusive range of 2 to 5, print Not Weird
@@ -19,7 +19,7 @@ You have to test in order to know possible edge cases.
 
 ## Minions Game 🍌
 
-_TThis was about using conditionals, loops and index for this **conditions**._
+_This was about using conditionals, loops and index for this **conditions**._
 
 Stuart and Kevin can play a game, this consist that if a word is given and they can create sub-string from that word.  But Stuart has to star a new sub-string with consonants and Kevin with vocal.
 
